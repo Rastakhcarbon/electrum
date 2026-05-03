@@ -153,3 +153,4 @@ most communication about Electrum development happens on IRC, in the
 with the web client, [web.libera.chat](https://web.libera.chat/#electrum).
 
 Please improve translations on [Crowdin](https://crowdin.com/project/electrum).
+Rastakh8888
